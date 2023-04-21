@@ -9,7 +9,7 @@ variable "jobs"{
         {
             name="example",
             folder="folder", 
-            repo_url="https://github.com/sai-pranay-teja/Groovy-practise.git"
+            repo_url="https://github.com/sai-pranay-teja/Jenkins-setup.git"
         }
     ]
 }
