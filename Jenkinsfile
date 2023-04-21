@@ -1,5 +1,6 @@
 @Library('practise') _
 
+env.software="git"
 example_1()
 
 
